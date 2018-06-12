@@ -20,3 +20,4 @@
 
 #### 11.4 Usando property binding em diretivas customizadas
 
+#### 11.5 Exportando a API da diretiva para o template
