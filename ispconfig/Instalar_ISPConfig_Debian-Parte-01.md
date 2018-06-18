@@ -49,8 +49,7 @@ cd ispconfig_setup-master/
 Configurações solicitadas via instalação por script:
 Banco: mariadb
 Password: https://www.random.org/passwords/
-HvuLQrGa
-password ispconfig 26cbec52
+password ispconfig
 
 Apache (*)
 HHVM (Yes)
